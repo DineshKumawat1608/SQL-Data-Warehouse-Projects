@@ -78,7 +78,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Dinesh Kumawat**. I’m an 
+Hi there! I'm **Dinesh Kumawat**. I’m an data analyst with hands-on experience in SQL, Python, Excel, Power BI, and Tableau, and a strong interest in solving real business problems using boring raw_data.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
