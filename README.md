@@ -82,4 +82,6 @@ Hi there! I'm **Dinesh Kumawat**. I’m an
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](www.linkedin.com/in/dineshkumawat1608)
+[![LinkedIn](www.linkedin.com/in/
+dineshkumawat1608
+)
